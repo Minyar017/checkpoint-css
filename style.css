@@ -1,0 +1,118 @@
+li
+{
+  display:inline;
+  
+}
+
+a{
+    color:black; 
+    float: right;
+    padding-left: 50px;
+    
+}
+a:hover{
+  color: #ff008c
+}
+h1:hover{
+color: rgb(146, 110, 33);
+}
+h1
+{
+    padding-left: 590px ;
+    
+    
+        color:tomato;
+        font-size:25px;
+}
+#immg
+{
+  margin-left: auto;
+  margin-right: auto;
+  width: max-content;
+  padding-top: 80px;
+
+}
+#all
+{
+  padding-top: 120px;
+}
+img
+{
+  border: solid black 2px;
+}
+
+#tb
+{
+  float: right;
+  padding-bottom: 10px;
+  
+  
+}
+table
+{
+  border-collapse: collapse;
+  border: 2px solid black;
+  
+}
+tr{
+  border: 2px solid black;
+}
+th{
+  border: 2px solid black;
+}
+td{
+  border: 2px solid black;
+}
+#go
+{
+  margin-left: auto;
+  margin-right: auto;
+  width: max-content;
+}
+#sign
+{
+  background-color: rgb(241, 132, 214);
+}
+#jr
+{
+  border: solid black 4px;
+  background-color: blanchedalmond;
+  margin-left: auto;
+  margin-right: auto;
+  width: max-content;
+  padding-left: 10px;
+}
+#cs
+{
+  border: solid black 4px;
+  background-color: blanchedalmond;
+  margin-left: auto;
+  margin-right: auto;
+  width: max-content;
+  padding-left: 10px;
+}
+#hm
+{
+  border: solid black 4px;
+  background-color: blanchedalmond;
+  margin-left: auto;
+  margin-right: auto;
+  width: max-content; 
+  padding-left: 10px;
+}
+.java
+{
+  font-family: Helvetica ;}
+#for
+{
+  float: right;
+  padding-top: 90px;
+}
+.aa{
+float: bottom;
+}
+#cont
+{
+  padding-top: 50px;
+ 
+}
